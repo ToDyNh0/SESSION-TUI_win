@@ -1,0 +1,2 @@
+# only needed to build the standalone executable (build.bat / Dockerfile)
+pyinstaller>=6.10

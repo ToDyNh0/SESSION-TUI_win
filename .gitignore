@@ -1,0 +1,14 @@
+# build and environment
+.venv/
+venv/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# NEVER commit an account: it holds the private key
+session_profile/
+profile/
+account.json
+*.log
